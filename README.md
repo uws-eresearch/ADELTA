@@ -15,5 +15,5 @@ international databases of electronic literature.
 
 
 Techincal work on this project is being done by the [UWS eResearch team](http://eresearch.uws.edu.au/blog/projects/digital-humanities/), led by Peter Sefton, with technical 
-work done by Lloyd Harischandra
+work done by Lloyd Harischandra 
 
